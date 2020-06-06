@@ -1,4 +1,4 @@
-<img src="Data Science Experiments.png" alt="project banner" class="center">
+<img src="Logo.png" class="center">
 
 # Projects
 Data science projects (beginner level)
