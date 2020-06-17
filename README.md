@@ -1,4 +1,4 @@
 <center><img src="Logo.png" height="200px"></center>
 
 # Projects
-Data science projects (beginner level)
+Repository for Data Science projects at a beginner level. The aim here was to train as I was learning.
